@@ -1,0 +1,29 @@
+body{
+    padding: 50px;
+}
+.submit-area {
+    box-shadow: 5px 5px 10px grey;
+    padding: 30px;
+    border-radius: 10px;
+    margin-top: 30px;
+}
+
+.submit-area h4 {
+    font-size: 24px;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+.deposit{background-color: #5646BD}
+.withdraw{background-color: #E4936E}
+.balance{background-color: #EA9600}
+
+.status {
+    padding: 30px 20px;
+    border-radius: 10px;
+    color: #fff;
+    margin-top: 30px;
+}
+
+#transition-area{
+    display: none;
+}
